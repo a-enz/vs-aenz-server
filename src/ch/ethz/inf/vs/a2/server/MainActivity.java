@@ -1,5 +1,6 @@
 package ch.ethz.inf.vs.a2.server;
 
+import ch.ethz.inf.vs.a2.aenz.server.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
